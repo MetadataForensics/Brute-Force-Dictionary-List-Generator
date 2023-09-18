@@ -14,3 +14,6 @@ You may also be required to take additional steps when running the tool the firs
 
 Run the application, browse to your input .txt file, browser to your output folder for your custom brute force dictionary list, and select "Process." Your custom brute force dictionary list will be created and saved in your output location!
 
+## Acknowledgement
+
+This application was created by James R. McGee, Digital Forensic Examiner, for use by the Digital Forensic Incident Response Community. James and Metadata Forensics, LLC, are proud to give back to our great Community.
