@@ -4,9 +4,13 @@ Creating a custom brute force dictionary list, from your list of possible passco
 
 More details within our blog post, available at XXX.
 
-## Usage
+## Downloading
+
+Navigate to the Brute Force Dictionary List Generator.exe above. Select "More file actions" on the right, shown by an "..." icon, and choose "Download".
 
 When downloading, you may me met with a download issue requiring you to trust the application to open it. This is because the application is new and not commonly downloaded. Selecting "More actions" will allow you to "Keep" the file and complete the download. 
+
+## Usage
 
 You may also be required to take additional steps when running the tool the first time, through Microsoft Defender SmartScreen. In the Microsoft Defender SmartScreen select "More info" and "Run anyway" to launch the application the first time. 
 
