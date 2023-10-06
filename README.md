@@ -1,4 +1,4 @@
-# Brute-Force-Dictionary-List-Generator
+# Brute Force Dictionary List Generator
 
 Creating a custom brute force dictionary list, from your list of possible passcodes within a .txt file.
 
