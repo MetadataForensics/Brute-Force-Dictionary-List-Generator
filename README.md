@@ -1,5 +1,7 @@
 # Brute Force Dictionary List Generator
 
+Announcing Version 1.2.0.0, with our new look!
+
 Creating a custom brute force dictionary list, from your list of possible passcodes within a .txt file.
 
 More details within our blog post, available at https://metadataperspective.com/2024/01/24/introducing-our-new-brute-force-dictionary-list-generator/
@@ -19,5 +21,7 @@ You may also be required to take additional steps when running the tool the firs
 Run the application, browse to your input .txt file, browser to your output folder for your custom brute force dictionary list, and select "Process." Your custom brute force dictionary list will be created and saved in your output location!
 
 ## Acknowledgement
+
+This software includes the CustomTkinter library, which is licensed under the MIT License. Copyright (c) 2023 Tom Schimansky. The full license text can be found in the LICENSE file provided here: https://github.com/TomSchimansky/CustomTkinter.
 
 This application was created by James R. McGee, Digital Forensic Examiner, for use by the Digital Forensic Incident Response Community. James and Metadata Forensics, LLC, are proud to give back to our great Community.
