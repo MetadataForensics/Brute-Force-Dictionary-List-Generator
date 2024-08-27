@@ -1,6 +1,6 @@
 # Brute Force Dictionary List Generator
 
-Announcing Version 1.2.0.0, with our new look!
+Announcing Version 1.2.0.1, with our new look!
 
 Creating a custom brute force dictionary list, from your list of possible passcodes within a .txt file.
 
